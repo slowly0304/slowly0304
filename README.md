@@ -10,12 +10,7 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- 掘金： [](https://juejin.cn/user/3195640915437593)
-
-
-| :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+- 掘金： [book](https://juejin.cn/user/3195640915437593)
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
