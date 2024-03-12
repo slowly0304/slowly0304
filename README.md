@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/slowly0304)
 
 <h1 align="center">I'm 慢慢</h1>
 <h3 align="center">小心翼翼的前端Develop</h3>
@@ -10,10 +10,7 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/slowly0304)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
+- 掘金： [](https://juejin.cn/user/3195640915437593)
 
 
 | :pencil2: | :book:  |
